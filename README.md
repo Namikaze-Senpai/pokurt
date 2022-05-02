@@ -68,19 +68,7 @@
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 💰 **Donations & Support**
-
-- **Buy me a Ko-fi:**
-
-    <a href='https://ko-fi.com/pokurt' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-- **Support me by Signing up on DigitalOcean with my Referral Link:**
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=ed752d686dc7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=namikaze-senpai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
@@ -104,24 +92,3 @@
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
 </details>
-
-
-
-
-
-
----------------------
-
-[📝 Why I left Social Life...](https://blog.pokurt.me/why-i-left-social-media/)  
-
-There is nothing much I can talk about this topic. Most of the reason why I left Facebook, Twitter, Instagram and Viber is because of my life events.
-
-<!--kg-card-begin: markdown-->
-
-Maybe this Life is not for me, or not used to be with people that much. Everywhere I look or go to,
-
- - Thu, 29 Oct 2020 17:27:50 GMT
-
----------------------
-
-
