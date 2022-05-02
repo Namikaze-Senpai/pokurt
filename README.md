@@ -1,10 +1,6 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** watashi wa pokuruto desu ~  | [![Profile views](https://gpvc.arturio.dev/pokurt)](https://github.com/pokurt)
 
 
-- **SysAdmin and the Backend Developer of [Qani.store](https://qani.store)**
-- **a Blogger, read my blog here -> [pokurt.me](https://blog.pokurt.me)**
-- **🐋 [DigitalOcean](https://digitalocean.com) Power User 💪**
-- **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Nim](https://nim-lang.org) Lover 💖**
 - **I put mostly of my focus on [Python](https://python.org) and [Nim](https://nim-lang.org)**
 - **My Everyday usage is based on: `.py` `.nim` `.sh`**
 
@@ -59,11 +55,11 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pokurt&show_icons=true&theme=radical)](https://github.com/pokurt)
+[![github stats](https://github-readme-stats.vercel.app/api?username=namikaze-senpai&show_icons=true&theme=radical)](https://github.com/pokurt)
 
-![GitHub followers](https://img.shields.io/github/followers/pokurt?color=aqua&label=Followers&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/pokurt?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/pokurt?color=aqua&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/namikaze-senpai?color=aqua&label=Followers&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/namikaze-senpai?affiliations=OWNER&color=aqua&style=for-the-badge)
+![Keybase PGP](https://img.shields.io/keybase/pgp/namikaze-senpai?color=aqua&style=for-the-badge)
 
 
 ## 🌐 **Top Languages**
@@ -112,14 +108,7 @@
 
 
 
-## 📘 **My Latest Blog Posts:**
-<!--bp-->
 
-[📝 Programming is stupid](https://blog.pokurt.me/programming-is-stupid/)  
-
-Before you move away, just think about it. For example you write a code that simply prints out `` Hello World `` and nothing else but you are stuck with that same code in your entire life, and then when you move forward to do something better but you are welcomed with
-
- - Tue, 23 Mar 2021 00:42:44 GMT
 
 ---------------------
 
@@ -135,15 +124,4 @@ Maybe this Life is not for me, or not used to be with people that much. Everywhe
 
 ---------------------
 
-[📝 Telegram Instant View](https://blog.pokurt.me/telegram-instantview/)  
-
-My personal thoughts on Telegram's Instant View
-
-<h3 id="introduction">Introduction</h3>
-
-Telegram's Instant View allows users to read articles from Internet with zero loading time. When you get a link to an article via Telegram that supports Instant View, simply tap the ____Instant View____ button, and the page will open instantly and read
-
- - Mon, 28 Sep 2020 07:12:32 GMT
-
----------------------
 
